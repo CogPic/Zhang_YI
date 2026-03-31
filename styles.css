@@ -154,6 +154,14 @@ a:hover {
   margin: 0 0 14px;
 }
 
+.simple-list p {
+  margin: 0 0 6px;
+}
+
+.simple-list p:last-child {
+  margin-bottom: 0;
+}
+
 .entry-list {
   display: grid;
   gap: 16px;
